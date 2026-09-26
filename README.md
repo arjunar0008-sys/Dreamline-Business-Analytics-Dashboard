@@ -17,4 +17,4 @@ This Power BI dashboard analyzes visa and ticket sales data to track revenue, ap
 - `Dreamline Visa Data Analysis Dashboard.pbix`
 
 ## Author
-Arjun — Business Analytics Intern
+Arjun — Data Analyst
